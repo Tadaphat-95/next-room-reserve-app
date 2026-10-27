@@ -1,0 +1,9 @@
+/node_modules
+/.next
+/generated/prisma
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+
+.mysql-admin.env
